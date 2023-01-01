@@ -1,3 +1,0 @@
-Aby utworzyć nowy projekt:
-1. Stwórz folder i otwórz go w PyCharm.
-2. Pojawi się info o konieczności utworzenia interpretera Python - zrób to.
